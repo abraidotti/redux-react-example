@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Route, Link } from 'react-router-dom'
 import Home from '../home'
@@ -17,3 +16,5 @@ const App = () => (
     </main>
   </div>
 )
+
+export default App
